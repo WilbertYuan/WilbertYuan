@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Yuan Haokuan !
-- 👀 I’m interested in Mathematics,ML,RL.
+- 👀 I’m interested in Mathematics,ML,RL......(formal)
 - 🌱 I’m currently learning ML and some developing technique.
 - 💞️ I’m looking to collaborate on any developing programmes.
 - 🍉 I’m now a bachelor major in Data Science and I'm now learning in Nanjing University of Post and Telecommunications
