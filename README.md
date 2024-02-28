@@ -15,6 +15,8 @@
   
 - 📫 How to reach me MY EMAIL: B23042424@163 DOT com.
 
+- 🐍 "If you can't locate me, I might be interacting with a python..."
+
 
 
 <!---
