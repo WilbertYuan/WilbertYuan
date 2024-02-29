@@ -1,3 +1,6 @@
+<div align=center>
+  <img width=64 src="image/figure.png">
+</div>
 <h1 align="center">Welcome to my Github homepage!😏👉</h1>
 <h3 align="center" >😃I’m Yuan Hankuan,glad to meet you!</h3>
 <h3 align="center" >---</h3>
