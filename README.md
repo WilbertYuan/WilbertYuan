@@ -4,11 +4,7 @@
 <h1 align="center">Welcome to my github homepage!😏👉</h1>
 <h3 align="center" >😃I’m Yuan Hankuan -- Glad to meet you!</h3>
 <h3 align="center" >----------------------------------------------------------------------</h3>
-<div>
-  <style>
-    width:13px
-  </style>
-</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
 
 
