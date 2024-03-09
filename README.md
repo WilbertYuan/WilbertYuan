@@ -25,20 +25,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 293.2 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Morning 🐔** 
-
+**I'm a Morning 🐔 and also a evening 🐱** 
+You know I actually have many lessons during daytime😓
 ```text
 🌞 Morning                24 commits          ██████████░░░░░░░░░░░░░░░   40.68 % 
 🌆 Daytime                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
