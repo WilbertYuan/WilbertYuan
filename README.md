@@ -21,6 +21,78 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 293.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 57 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                24 commits          ██████████░░░░░░░░░░░░░░░   40.68 % 
+🌆 Daytime                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌃 Evening                32 commits          ██████████████░░░░░░░░░░░   54.24 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Wednesday                11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Thursday                 13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ███████████████░░░░░░░░░░   60.00 % 
+C                        2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/03/2024 03:38:08 UTC
 <!--END_SECTION:waka-->
 
 <!---
