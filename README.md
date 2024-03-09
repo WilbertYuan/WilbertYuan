@@ -5,8 +5,7 @@
 <h3 align="center" >😃I’m Yuan Hankuan -- Glad to meet you!</h3>
 <h3 align="center" >----------------------------------------------------------------------</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Mathematics,ML,RL......(formal)
   
@@ -26,7 +25,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 **I'm a Morning 🐔 and also a evening 🐱** 
-You know I actually have many lessons during daytime😓
+(You know, actually, I have many lessons during the daytime😓)
 ```text
 🌞 Morning                24 commits          ██████████░░░░░░░░░░░░░░░   40.68 % 
 🌆 Daytime                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
@@ -47,9 +46,8 @@ Sunday                   7 commits           ███░░░░░░░░�
 
 
 📊 **This Week I Spent My Time On** 
-
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Beijing
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -65,7 +63,7 @@ No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
-
+(but now mainly learning C/CPP)
 ```text
 Python                   6 repos             ███████████████░░░░░░░░░░   60.00 % 
 C                        2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
