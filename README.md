@@ -20,9 +20,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue)
 
 **🐱 My GitHub Data** 
 
@@ -36,45 +34,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ███████████░░░░░░░░░░░░░░   43.55 % 
-🌆 Daytime                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-🌃 Evening                32 commits          █████████████░░░░░░░░░░░░   51.61 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Wednesday                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Thursday                 13 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Saturday                 17 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,7 +50,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 04:20:25 UTC
+ Last Updated on 09/03/2024 18:31:10 UTC
 <!--END_SECTION:waka-->
 
 <!---
