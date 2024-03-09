@@ -20,7 +20,8 @@
 
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 WilbertYuan/WilbertYuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
