@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_EDITORS: "True"
+          # SHOW_LANGUAGE: "True"
+          # SHOW_DAYS_OF_WEEK: "True"
+          # SHOW_EDITORS: "True"
           SYMBOL_VERSION: "1"
