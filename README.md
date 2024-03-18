@@ -20,57 +20,15 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-471-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 293.8 kB Used in GitHub's Storage 
- > 
-> 🏆 100 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-🌃 Evening                57 commits          ███████████████░░░░░░░░░░   58.16 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Sunday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   6 hrs 57 mins       ███████████████████░░░░░░   75.20 % 
 JavaScript               2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,12 +42,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 18/03/2024 12:47:12 UTC
+ Last Updated on 18/03/2024 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 <!---
