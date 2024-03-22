@@ -13,7 +13,7 @@
   
 - 💞️ I’m looking to collaborate on any developing programmes.
   
-- 🍉 I’m now a bachelor major in Data Science and I'm now learning in Nanjing University of Post and Telecommunications
+- 🍉 I’m now a bachelor majoring in Data Science and I'm now learning in Nanjing University of Post and Telecommunications
   
 - 📫 How to reach me MY EMAIL: B23042424@163 DOT com OR 1719387367@qq DOT com
 
