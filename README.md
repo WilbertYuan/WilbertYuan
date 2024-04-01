@@ -20,51 +20,11 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%203%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 293.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-🌃 Evening                58 commits          ███████████████░░░░░░░░░░   58.59 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Sunday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,12 +38,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 01/04/2024 12:47:17 UTC
+ Last Updated on 01/04/2024 18:35:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
