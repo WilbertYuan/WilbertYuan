@@ -7,13 +7,13 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
 
-- 👀 I’m interested in Mathematics,ML,RL......(formal)
+- 👀 I’m interested in Mathematics,ML[^1],RL[^2]......(formal)
   
-- 🌱 I’m currently learning ML and some developing technique.
+- 🌱 I’m currently learning ML[^1] and some developing technique.
   
 - 💞️ I’m looking to collaborate on any developing programmes.
   
-- 🍉 I’m now a bachelor majoring in Data Science and I'm now learning in Nanjing University of Post and Telecommunications
+- 🍉 I’m now a bachelor majoring in Data Science and I'm now learning in [Nanjing University of Post and Telecommunications](https://www.njupt.edu.cn)
   
 - 📫 How to reach me MY EMAIL: B23042424@163 DOT com OR 1719387367@qq DOT com
 
@@ -90,3 +90,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 WilbertYuan/WilbertYuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[^1]:Machine Learning
+[^2]:Reinforcement Learning
