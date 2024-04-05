@@ -23,52 +23,12 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 293.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-🌃 Evening                72 commits          ████████████████░░░░░░░░░   63.72 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Tuesday                  24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Sunday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Markdown                 35 mins             ███████████████████████░░   92.39 % 
 Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-
-🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,12 +42,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 05/04/2024 12:44:23 UTC
+ Last Updated on 05/04/2024 18:36:03 UTC
 <!--END_SECTION:waka-->
 
 <!---
