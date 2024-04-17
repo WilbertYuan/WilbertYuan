@@ -23,7 +23,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
@@ -78,11 +78,11 @@ VS Code                  4 hrs 33 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -92,7 +92,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2024 19:37:29 UTC
+ Last Updated on 17/04/2024 02:37:12 UTC
 <!--END_SECTION:waka-->
 
 <!---
