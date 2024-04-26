@@ -23,7 +23,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -93,7 +93,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2024 19:37:22 UTC
+ Last Updated on 26/04/2024 02:35:41 UTC
 <!--END_SECTION:waka-->
 
 <!---
