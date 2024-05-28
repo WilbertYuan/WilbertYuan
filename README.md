@@ -23,55 +23,13 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2036%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 300.8 kB Used in GitHub's Storage 
- > 
-> 🏆 130 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌆 Daytime                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌃 Evening                84 commits          ██████████████░░░░░░░░░░░   57.14 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Saturday                 34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Markdown                 24 mins             ██████████████████░░░░░░░   70.67 % 
 Python                   9 mins              ███████░░░░░░░░░░░░░░░░░░   27.75 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,12 +44,8 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 28/05/2024 12:49:09 UTC
+ Last Updated on 28/05/2024 18:38:26 UTC
 <!--END_SECTION:waka-->
 
 <!---
