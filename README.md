@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.7 kB Used in GitHub's Storage 
+> 📦 302.6 kB Used in GitHub's Storage 
  > 
 > 🏆 131 Contributions in the Year 2024
  > 
@@ -93,7 +93,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 19:37:46 UTC
+ Last Updated on 17/08/2024 02:45:05 UTC
 <!--END_SECTION:waka-->
 
 <!---
