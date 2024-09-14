@@ -23,13 +23,15 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 302.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 132 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +91,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 02:53:42 UTC
+ Last Updated on 14/09/2024 07:32:12 UTC
 <!--END_SECTION:waka-->
 
 <!---
