@@ -23,7 +23,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -94,7 +94,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2024 19:37:53 UTC
+ Last Updated on 16/09/2024 03:03:15 UTC
 <!--END_SECTION:waka-->
 
 <!---
