@@ -29,8 +29,6 @@
 
 > 📦 308.4 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -92,7 +90,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 19:38:04 UTC
+ Last Updated on 13/11/2024 02:59:05 UTC
 <!--END_SECTION:waka-->
 
 <!---
