@@ -21,15 +21,20 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2059%20mins-blue)
 
-```text
-💬 Programming Languages: 
-Python                   59 mins             ██████████████████████░░░   86.53 % 
-zsh                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 312.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
 **I Mostly Code in Python** 
 
 ```text
@@ -42,8 +47,12 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 11/12/2024 18:47:43 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/12/2024 19:39:01 UTC
 <!--END_SECTION:waka-->
 
 <!---
