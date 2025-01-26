@@ -21,7 +21,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -75,9 +75,9 @@ VS Code                  25 hrs 17 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+Python                   8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
 Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 M                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
@@ -89,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2025 02:57:17 UTC
+ Last Updated on 26/01/2025 07:31:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
