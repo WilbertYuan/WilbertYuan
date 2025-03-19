@@ -21,11 +21,52 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2021%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 314.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                36 commits          ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌆 Daytime                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌃 Evening                88 commits          ███████████████░░░░░░░░░░   58.28 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Tuesday                  41 commits          ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 33 mins        ████████████████████████░   96.17 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+
+🔥 Editors: 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -40,8 +81,12 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 19/03/2025 18:46:45 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/03/2025 19:38:38 UTC
 <!--END_SECTION:waka-->
 
 <!---
