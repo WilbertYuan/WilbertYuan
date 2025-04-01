@@ -21,11 +21,53 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 316.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌆 Daytime                31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+🌃 Evening                88 commits          ██████████████░░░░░░░░░░░   54.66 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.00 % 
+Python                   5 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -40,8 +82,12 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 01/04/2025 18:47:29 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/04/2025 19:38:52 UTC
 <!--END_SECTION:waka-->
 
 <!---
