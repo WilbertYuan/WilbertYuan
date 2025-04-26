@@ -21,53 +21,11 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 316.1 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-🌆 Daytime                35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌃 Evening                89 commits          █████████████░░░░░░░░░░░░   53.61 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,12 +40,8 @@ M                        1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 26/04/2025 12:57:30 UTC
+ Last Updated on 26/04/2025 18:43:29 UTC
 <!--END_SECTION:waka-->
 
 <!---
