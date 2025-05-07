@@ -21,12 +21,54 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 316.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌆 Daytime                35 commits          █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌃 Evening                90 commits          █████████████░░░░░░░░░░░░   52.94 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  41 commits          ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Saturday                 34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ██████████████████████░░░   88.13 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Python                   1 hr 30 mins        ██████████████████████░░░   88.58 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+
+🔥 Editors: 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,8 +83,12 @@ M                        1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 07/05/2025 18:48:02 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/05/2025 19:39:20 UTC
 <!--END_SECTION:waka-->
 
 <!---
