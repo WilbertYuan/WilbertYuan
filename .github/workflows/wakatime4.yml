@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics4
+    name: Update Readme with Metrics 2
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
           # SHOW_LANGUAGE: "True"
           # SHOW_DAYS_OF_WEEK: "True"
           # SHOW_EDITORS: "True"
