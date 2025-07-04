@@ -21,50 +21,10 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2051%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 55 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-🌃 Evening                99 commits          ████████████░░░░░░░░░░░░░   46.48 % 
-🌙 Night                  37 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Wednesday                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Saturday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 ```
 
@@ -80,12 +40,8 @@ M                        1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 04/07/2025 13:05:36 UTC
+ Last Updated on 04/07/2025 18:48:56 UTC
 <!--END_SECTION:waka-->
 
 <!---
