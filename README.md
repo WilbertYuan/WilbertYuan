@@ -21,51 +21,11 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2053%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 80 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌆 Daytime                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌃 Evening                99 commits          ██████████░░░░░░░░░░░░░░░   41.77 % 
-🌙 Night                  55 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Saturday                 47 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Sunday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   40 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,12 +40,8 @@ M                        1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
-
-
- Last Updated on 22/07/2025 13:11:39 UTC
+ Last Updated on 22/07/2025 18:54:25 UTC
 <!--END_SECTION:waka-->
 
 <!---
