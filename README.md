@@ -21,27 +21,15 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+```txt
+From: 16 July 2025 - To: 23 July 2025
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Roff                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-M                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-
-
- Last Updated on 23/07/2025 18:53:50 UTC
 <!--END_SECTION:waka-->
 
 <!---
