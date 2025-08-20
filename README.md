@@ -21,7 +21,7 @@
 - 🐍 "If you can't locate me, I might be interacting with a python..."
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@ M                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WilbertYuan/WilbertYuan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 07:37:32 UTC
+ Last Updated on 20/08/2025 13:06:12 UTC
 <!--END_SECTION:waka-->
 
 <!---
